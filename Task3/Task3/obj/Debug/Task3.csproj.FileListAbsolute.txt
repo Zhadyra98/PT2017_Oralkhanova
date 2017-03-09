@@ -4,3 +4,9 @@ C:\Users\user\labs\PT2017_Oralkhanova\Task3\Task3\bin\Debug\Task3.pdb
 C:\Users\user\labs\PT2017_Oralkhanova\Task3\Task3\obj\Debug\Task3.csprojResolveAssemblyReference.cache
 C:\Users\user\labs\PT2017_Oralkhanova\Task3\Task3\obj\Debug\Task3.exe
 C:\Users\user\labs\PT2017_Oralkhanova\Task3\Task3\obj\Debug\Task3.pdb
+C:\Users\user\PT2017_Oralkhanova\Task3\Task3\bin\Debug\Task3.exe.config
+C:\Users\user\PT2017_Oralkhanova\Task3\Task3\obj\Debug\Task3.exe
+C:\Users\user\PT2017_Oralkhanova\Task3\Task3\obj\Debug\Task3.pdb
+C:\Users\user\PT2017_Oralkhanova\Task3\Task3\obj\Debug\Task3.csprojResolveAssemblyReference.cache
+C:\Users\user\PT2017_Oralkhanova\Task3\Task3\bin\Debug\Task3.exe
+C:\Users\user\PT2017_Oralkhanova\Task3\Task3\bin\Debug\Task3.pdb
