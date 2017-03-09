@@ -1,0 +1,6 @@
+C:\Users\user\labs\PT2017_Oralkhanova\Task1\Task1\bin\Debug\Task1.exe.config
+C:\Users\user\labs\PT2017_Oralkhanova\Task1\Task1\bin\Debug\Task1.exe
+C:\Users\user\labs\PT2017_Oralkhanova\Task1\Task1\bin\Debug\Task1.pdb
+C:\Users\user\labs\PT2017_Oralkhanova\Task1\Task1\obj\Debug\Task1.csprojResolveAssemblyReference.cache
+C:\Users\user\labs\PT2017_Oralkhanova\Task1\Task1\obj\Debug\Task1.exe
+C:\Users\user\labs\PT2017_Oralkhanova\Task1\Task1\obj\Debug\Task1.pdb
